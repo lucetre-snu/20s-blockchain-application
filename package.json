@@ -1,0 +1,22 @@
+{
+  "name": "blockchainapplication",
+  "version": "1.0.0",
+  "description": "블록체인 및 실무응용 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucetre/BlockchainApplication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucetre/BlockchainApplication/issues"
+  },
+  "homepage": "https://github.com/lucetre/BlockchainApplication#readme",
+  "dependencies": {
+    "web3": "^1.2.7"
+  }
+}
